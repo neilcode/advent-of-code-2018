@@ -1,4 +1,6 @@
-(def box-ids (clojure.string/split-lines (slurp "input.txt")))
+(ns day-2.part-1)
+
+(def box-ids (clojure.string/split-lines (slurp "src/day_2/input.txt")))
 
 (def letter-frequencies
   "list of maps containing {character number-of-occurrences}

@@ -1,0 +1,1 @@
+src:/Users/neil.lambert/.m2/repository/org/clojure/clojure/1.9.0/clojure-1.9.0.jar:/Users/neil.lambert/.m2/repository/org/clojure/math.combinatorics/0.1.4/math.combinatorics-0.1.4.jar:/Users/neil.lambert/.m2/repository/org/clojure/spec.alpha/0.1.143/spec.alpha-0.1.143.jar:/Users/neil.lambert/.m2/repository/org/clojure/core.specs.alpha/0.1.24/core.specs.alpha-0.1.24.jar

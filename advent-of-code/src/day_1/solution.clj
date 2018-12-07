@@ -1,8 +1,7 @@
+(ns day-1.solution)
+
 (def input
-  (map #(Integer. %)
-       (clojure.string/split
-         (slurp "input.txt")
-         #"\n")))
+  (map #(Integer. %) (clojure.string/split-lines (slurp "src/day1/input.txt"))))
 
 (defn solve-part1 [fluctuations] (reduce + fluctuations))
 
